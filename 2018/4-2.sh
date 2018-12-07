@@ -1,3 +1,4 @@
+#!/bin/bash
 declare -A slp
 declare -A grid
 guard=0
